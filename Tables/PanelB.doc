@@ -1,0 +1,36 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3744\clbrdrt\brdrs\cellx5616\clbrdrt\brdrs\cellx7488
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3744\cellx5616\cellx7488
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5616\clbrdrb\brdrs\cellx7488
+\ql VARIABLES\cell\qc recidivism\cell\qc recidivism\cell\qc recidivism\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3744\cellx5616\cellx7488
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql DUI\cell\qc -0.0219***\cell\qc -0.0206***\cell\qc -0.470\cell\row
+\ql \cell\qc (0.00558)\cell\qc (0.00575)\cell\qc (0.437)\cell\row
+\ql bac1\cell\qc 0.188\cell\qc -0.196\cell\qc 6.167\cell\row
+\ql \cell\qc (0.201)\cell\qc (0.383)\cell\qc (8.120)\cell\row
+\ql interac\cell\qc \cell\qc 0.547\cell\qc -10.52\cell\row
+\ql \cell\qc \cell\qc (0.449)\cell\qc (10.61)\cell\row
+\ql interaction2\cell\qc \cell\qc \cell\qc -46.06\cell\row
+\ql \cell\qc \cell\qc \cell\qc (58.75)\cell\row
+\ql interaction3\cell\qc \cell\qc \cell\qc 71.27\cell\row
+\ql \cell\qc \cell\qc \cell\qc (69.21)\cell\row
+\ql male\cell\qc 0.0357***\cell\qc 0.0357***\cell\qc 0.0358***\cell\row
+\ql \cell\qc (0.00317)\cell\qc (0.00317)\cell\qc (0.00317)\cell\row
+\ql white\cell\qc 0.0176***\cell\qc 0.0176***\cell\qc 0.0176***\cell\row
+\ql \cell\qc (0.00381)\cell\qc (0.00381)\cell\qc (0.00381)\cell\row
+\ql aged\cell\qc -0.000756***\cell\qc -0.000758***\cell\qc -0.000758***\cell\row
+\ql \cell\qc (0.000115)\cell\qc (0.000115)\cell\qc (0.000115)\cell\row
+\ql acc\cell\qc 0.00431\cell\qc 0.00422\cell\qc 0.00423\cell\row
+\ql \cell\qc (0.00497)\cell\qc (0.00497)\cell\qc (0.00497)\cell\row
+\ql Constant\cell\qc 0.0862***\cell\qc 0.113***\cell\qc -0.104\cell\row
+\ql \cell\qc (0.0154)\cell\qc (0.0278)\cell\qc (0.278)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 46,957\cell\qc 46,957\cell\qc 46,957\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5616\clbrdrb\brdrs\cellx7488
+\ql R-squared\cell\qc 0.004\cell\qc 0.004\cell\qc 0.004\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

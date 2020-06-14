@@ -1,0 +1,16 @@
+	(1)
+VARIABLES	male
+	
+arrest	-0.0184
+	(0.0198)
+bac1	-0.210
+	(0.240)
+interaction	0.307
+	(0.263)
+Constant	0.801***
+	(0.0160)
+	
+Observations	89,967
+R-squared	0.000
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

@@ -1,0 +1,40 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3312\clbrdrt\brdrs\cellx5184
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3312\cellx5184
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx5184
+\ql VARIABLES\cell\qc recidivism\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3312\cellx5184
+\ql \cell\qc \cell\row
+\ql 1.DUI\cell\qc 0.113\cell\row
+\ql \cell\qc (0.0843)\cell\row
+\ql bac1\cell\qc 2.902*\cell\row
+\ql \cell\qc (1.637)\cell\row
+\ql interaction2\cell\qc -24.72*\cell\row
+\ql \cell\qc (13.74)\cell\row
+\ql 0b.DUI#co.bac1\cell\qc 0\cell\row
+\ql \cell\qc (0)\cell\row
+\ql 1.DUI#c.bac1\cell\qc -4.210**\cell\row
+\ql \cell\qc (2.111)\cell\row
+\ql 0b.DUI#co.interaction2\cell\qc 0\cell\row
+\ql \cell\qc (0)\cell\row
+\ql 1.DUI#c.interaction2\cell\qc 32.73**\cell\row
+\ql \cell\qc (15.10)\cell\row
+\ql male\cell\qc 0.0332***\cell\row
+\ql \cell\qc (0.00233)\cell\row
+\ql white\cell\qc 0.0162***\cell\row
+\ql \cell\qc (0.00280)\cell\row
+\ql aged\cell\qc -0.000854***\cell\row
+\ql \cell\qc (8.50e-05)\cell\row
+\ql acc\cell\qc 0.00418\cell\row
+\ql \cell\qc (0.00345)\cell\row
+\ql Constant\cell\qc 0.0262\cell\row
+\ql \cell\qc (0.0473)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 89,967\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx5184
+\ql R-squared\cell\qc 0.004\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

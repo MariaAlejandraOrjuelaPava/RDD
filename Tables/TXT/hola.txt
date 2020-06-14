@@ -1,0 +1,32 @@
+	(1)
+VARIABLES	recidivism
+	
+1.DUI	0.113
+	(0.0843)
+bac1	2.902*
+	(1.637)
+interaction2	-24.72*
+	(13.74)
+0b.DUI#co.bac1	0
+	(0)
+1.DUI#c.bac1	-4.210**
+	(2.111)
+0b.DUI#co.interaction2	0
+	(0)
+1.DUI#c.interaction2	32.73**
+	(15.10)
+male	0.0332***
+	(0.00233)
+white	0.0162***
+	(0.00280)
+aged	-0.000854***
+	(8.50e-05)
+acc	0.00418
+	(0.00345)
+Constant	0.0262
+	(0.0473)
+	
+Observations	89,967
+R-squared	0.004
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
